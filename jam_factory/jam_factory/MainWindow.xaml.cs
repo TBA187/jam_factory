@@ -23,6 +23,7 @@ namespace jam_factory
         public MainWindow()
         {
             InitializeComponent();
+            //fdtg
         }
     }
 }
