@@ -23,7 +23,13 @@ namespace jam_factory
         public MainWindow()
         {
             InitializeComponent();
-            //fdtg
+            
+        }
+
+        private void Closebutton_Click(object sender, RoutedEventArgs e)
+        {
+            
+            this.Close();
         }
     }
 }
